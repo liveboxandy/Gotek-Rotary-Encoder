@@ -10,7 +10,7 @@
 		(rev "1.0")
 		(company "LiveBoxAndy")
 		(comment 1 "Created from pictures and meter readings")
-		(comment 2 "Added labels to connector pins")
+		(comment 2 "Added labels to connector pins and pinout to PCB")
 	)
 	(lib_symbols
 		(symbol "Connector_Generic:Conn_02x01"
